@@ -1,0 +1,10 @@
+{
+  "cSpell.words": ["frontmatter", "paren"],
+  "workbench.colorCustomizations": {
+    "titleBar.activeForeground": "#fff",
+    "titleBar.inactiveForeground": "#eee",
+    "titleBar.activeBackground": "#e00097",
+    "titleBar.inactiveBackground": "#e00097"
+  },
+  "git.ignoreLimitWarning": true
+}
